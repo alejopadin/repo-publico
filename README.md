@@ -1,2 +1,2 @@
-# repo-publico
-Repositorio pÃºblico del TP 2
+# Repo Público
+Este es un repositorio creado para el TP 2.
